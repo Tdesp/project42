@@ -1,1 +1,3 @@
-echo the answer is 42
+#!/bin/bash 
+# copyright linux-training.be
+
